@@ -1,0 +1,14 @@
+C:\Users\andre.junior\OneDrive - vvssistemas.com.br\Vscode\CSHARP ROCKETSEAT\bin\Debug\net10.0\CSHARP ROCKETSEAT.exe
+C:\Users\andre.junior\OneDrive - vvssistemas.com.br\Vscode\CSHARP ROCKETSEAT\bin\Debug\net10.0\CSHARP ROCKETSEAT.deps.json
+C:\Users\andre.junior\OneDrive - vvssistemas.com.br\Vscode\CSHARP ROCKETSEAT\bin\Debug\net10.0\CSHARP ROCKETSEAT.runtimeconfig.json
+C:\Users\andre.junior\OneDrive - vvssistemas.com.br\Vscode\CSHARP ROCKETSEAT\bin\Debug\net10.0\CSHARP ROCKETSEAT.dll
+C:\Users\andre.junior\OneDrive - vvssistemas.com.br\Vscode\CSHARP ROCKETSEAT\bin\Debug\net10.0\CSHARP ROCKETSEAT.pdb
+C:\Users\andre.junior\OneDrive - vvssistemas.com.br\Vscode\CSHARP ROCKETSEAT\obj\Debug\net10.0\CSHARP ROCKETSEAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.junior\OneDrive - vvssistemas.com.br\Vscode\CSHARP ROCKETSEAT\obj\Debug\net10.0\CSHARP ROCKETSEAT.AssemblyInfoInputs.cache
+C:\Users\andre.junior\OneDrive - vvssistemas.com.br\Vscode\CSHARP ROCKETSEAT\obj\Debug\net10.0\CSHARP ROCKETSEAT.AssemblyInfo.cs
+C:\Users\andre.junior\OneDrive - vvssistemas.com.br\Vscode\CSHARP ROCKETSEAT\obj\Debug\net10.0\CSHARP ROCKETSEAT.csproj.CoreCompileInputs.cache
+C:\Users\andre.junior\OneDrive - vvssistemas.com.br\Vscode\CSHARP ROCKETSEAT\obj\Debug\net10.0\CSHARP ROCKETSEAT.dll
+C:\Users\andre.junior\OneDrive - vvssistemas.com.br\Vscode\CSHARP ROCKETSEAT\obj\Debug\net10.0\refint\CSHARP ROCKETSEAT.dll
+C:\Users\andre.junior\OneDrive - vvssistemas.com.br\Vscode\CSHARP ROCKETSEAT\obj\Debug\net10.0\CSHARP ROCKETSEAT.pdb
+C:\Users\andre.junior\OneDrive - vvssistemas.com.br\Vscode\CSHARP ROCKETSEAT\obj\Debug\net10.0\CSHARP ROCKETSEAT.genruntimeconfig.cache
+C:\Users\andre.junior\OneDrive - vvssistemas.com.br\Vscode\CSHARP ROCKETSEAT\obj\Debug\net10.0\ref\CSHARP ROCKETSEAT.dll
